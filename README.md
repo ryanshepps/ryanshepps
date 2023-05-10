@@ -1,6 +1,6 @@
 **What I've been up to:**
 
-- :arrow_double_up: `10/05/2023` Made it easier to transfer my dotfiles from computer to computer with [chezmoi](https://github.com/twpayne/chezmoi).
+- :arrow_double_up: `10/05/2023` Made it easier to transfer my [dotfiles](https://www.github.com/ryanshepps/dotfiles) from computer to computer with [chezmoi](https://github.com/twpayne/chezmoi).
 - :school: `20/04/2023` Completed my Cloud Computing course with a 95% while on co-op.
 - :pencil2: `02/01/2023` Refreshed my knowledge on Spring and Hibernate through a course on [Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/).
 - :tada: `28/12/2022` Rewrote my [personal website](https://ryansheppard.tech) including a [custom Jekyll theme](https://github.com/ryanshepps/jekyll-theme-minimal-ryan).
