@@ -1,5 +1,6 @@
 **What I've been up to:**
 
+- 📗 `14/08/2023` Wrote a blog post on [managing multiple release versions](https://ryansheppard.tech/2023/08/02/a-case-study-on-managing-multiple-release-versions.html).
 - :arrow_double_up: `10/05/2023` Made it easier to transfer my [dotfiles](https://www.github.com/ryanshepps/dotfiles) from computer to computer with [chezmoi](https://github.com/twpayne/chezmoi).
 - :school: `20/04/2023` Completed my Cloud Computing course with a 95% while on co-op.
 - :pencil2: `02/01/2023` Refreshed my knowledge on Spring and Hibernate through a course on [Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/).
