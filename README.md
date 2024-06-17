@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ryansheppard.tech">ryansheppard.tech</a></p>
+<p align="center"><a href="https://ryansheppard.tech" target="_blank">ryansheppard.tech</a></p>
 
 **What I've been up to:**
 
